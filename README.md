@@ -1,9 +1,9 @@
 # Monitoramento SEI RJ
 <br>
-## Código para automação de monitorar de processos no SEI RJ
+<h2> Código para automação de monitorar de processos no SEI RJ </h2>
 <br>
-#### Para a criação do executavel utilize os seguintes comandos no cmd da pasta a onde o arquivo "Executavel.py" foi baixado :
-##### pip install pyinstaller \\ pyinstaller --onefile "nome_do_arquivo.py"
+<h3> Para a criação do executavel utilize os seguintes comandos no cmd da pasta a onde o arquivo "Executavel.py" foi baixado : </h3>
+<h4> pip install pyinstaller \\ pyinstaller --onefile "nome_do_arquivo.py" </h4>
 <br>
-#### O executavel vai ser criado em uma pasta chamda "dist", so abrir e executar para o teste.
+<h3> O executavel vai ser criado em uma pasta chamda "dist", so abrir e executar para o teste. </h3>
 
