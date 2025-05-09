@@ -4,7 +4,7 @@ import pandas as pd
 from openpyxl import load_workbook
 import time
 
-caminho_arquivo = r"COLOQUE O SEU AQUI"
+caminho_arquivo = r"COLOQUE O CAMINHO DO SEU ARQUIVO EXCEL AQUI"
 wb = load_workbook(caminho_arquivo)
 ws = wb.active
 
